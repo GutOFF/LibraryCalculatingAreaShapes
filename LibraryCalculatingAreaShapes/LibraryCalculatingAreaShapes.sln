@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryCalculatingAreaShapes", "LibraryCalculatingAreaShapes\LibraryCalculatingAreaShapes.csproj", "{A545A186-0479-4B28-85C4-0F39C51BC93B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{ACEF29A6-73D3-4FD8-82DB-67587DD1FEA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A545A186-0479-4B28-85C4-0F39C51BC93B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A545A186-0479-4B28-85C4-0F39C51BC93B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A545A186-0479-4B28-85C4-0F39C51BC93B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A545A186-0479-4B28-85C4-0F39C51BC93B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACEF29A6-73D3-4FD8-82DB-67587DD1FEA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACEF29A6-73D3-4FD8-82DB-67587DD1FEA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACEF29A6-73D3-4FD8-82DB-67587DD1FEA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACEF29A6-73D3-4FD8-82DB-67587DD1FEA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
